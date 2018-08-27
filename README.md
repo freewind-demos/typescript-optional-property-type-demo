@@ -1,5 +1,5 @@
-TypeScript Variable with Question Mark Demo
-===========================================
+TypeScript Optional Property Type Demo
+======================================
 
 Understand the type of property `email?: string`.
 
